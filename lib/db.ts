@@ -24,7 +24,7 @@ import {
   SEED_AI_REPORTS,
 } from './seed-data';
 
-const STORAGE_KEY = 'cf_data_v1';
+const STORAGE_KEY = 'cf_data_v2';
 
 interface DBState {
   departments: Department[];
